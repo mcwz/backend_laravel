@@ -1,0 +1,55 @@
+<?php
+return [
+	'action'=>'操作',
+	'save'=>'保存',
+	'update'=>'更新',
+	'delete'=>'删除',
+	'cancel'=>'取消',
+	'created_at'=>'创建时间',
+	'updated_at'=>'更新时间',
+
+
+
+	'sys_name'=>'演示系统(resources/lang下修改)',
+	'sys_setup'=>'系统设置',
+	'permission_list'=>'模块管理',
+	'permission_name'=>'模块名称',
+	'permission_displayname'=>'显示名称',
+	'permission_description'=>'模块描述',
+	'permission_description_example'=>'模块管理页面',
+	'permission_new'=>'新建模块',
+	'role_list'=>'角色管理',
+	'user_list'=>'用户管理',
+	'sys_indexpage'=>'系统首页',
+	'role_name'=>'角色名称',
+	'role_displayname'=>'显示名称',
+	'role_description'=>'描述',
+	'role_new'=>'新建角色',
+	'role_delete_page '=>'删除角色',
+	'role_add_permission'=>'增加权限',
+	'role_detail'=>'角色详细信息',
+	'role_delete_success'=>'删除成功。',
+	'role_permissions_count'=>'角色对应权限数',
+	'role_users_count'=>'增加的用户数',
+	'role_delete_confirm'=>'删除操作将会同步删除掉该角色赋予的权限，以及将该角色组内的用户同时移出。\r\n(仅删除关联，不会删除权限与用户本身记录)',
+	'role_users'=>'此角色下的用户',
+	'role_user_delete_info'=>'(删除角色后，这些用户也会自动脱离此角色)',
+	'role_permissions'=>'此角色的权限',
+	'role_info'=>'角色信息',
+	'role'=>'角色',
+
+
+	'user_add'=>'新建用户',
+	'user_name'=>'用户名称',
+	'user_displayname'=>'显示名称',
+	'user_email'=>'电子邮件',
+	'user_description'=>'用户描述',
+	'password'=>'密码',
+	'user_avatar'=>'用户照片',
+	'user_description_info'=>'输入用户描述',
+	'user_role'=>'为用户增加角色',
+	'userinfo'=>'用户信息',
+	'user_update'=>'更新用户',
+
+
+];
